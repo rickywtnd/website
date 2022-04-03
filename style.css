@@ -1,0 +1,64 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}h1{
+    display: flex;
+    width: 100%;
+    padding: 1%;
+    background-color: rgb(20, 20, 155);
+    color: white;
+}
+.header .topbar{
+    display: flex;
+    font-size: 20px;
+}
+.gambar{
+    display: flex;
+    background-color: rgb(214, 212, 212);
+    width: 12%;
+    border-radius: 10px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.gambar i{
+    display: flex;
+    align-items: center;
+    margin-left: 13px;
+    width: 10%;
+}
+.gambar ul li{
+    display: flex;
+    width: 200%;
+    margin-left: 45px;
+    margin-top: 9px;
+}
+.isi ul li{
+    display: flex;
+    border-radius: 10px;
+    width: 95%;
+    height: 150px;
+    margin-top: 15px;
+    margin-left: 10px;
+    background: rgb(20, 20, 155);
+}
+.isi-2 ul li{
+    display: flex;
+    border-radius: 10px;
+    width: 95%;
+    height: 150px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background: rgb(20, 20, 155);
+}
+.isi-3 ul li{
+    display: flex;
+    border-radius: 10px;
+    width: 95%;
+    height: 150px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background: rgb(20, 20, 155);
+}
